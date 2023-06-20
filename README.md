@@ -1,3 +1,3 @@
 # s2b-backend
 
-> This repository will store my microservice backend code and any other application-specific code under spring framework.
+> This repository is dedicated to storing the backend code of my microservice under spring framework. It includes server-side logic, database interactions, and any other backend-specific implementation details.
